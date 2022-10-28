@@ -1,3 +1,3 @@
 # szkolenie123
 szkolenieCPK
-szkolenie098
+szkolenie
